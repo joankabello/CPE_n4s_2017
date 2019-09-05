@@ -6,4 +6,4 @@ Usage: ./pipes.sh
 **WARNING** : You should have V-Rep to test this program.
 Link -> http://www.coppeliarobotics.com/downloads.html
 
-<iframe width="1207" height="679" src="https://www.youtube.com/embed/LW3Uv4xtDVg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/embed/LW3Uv4xtDVg
